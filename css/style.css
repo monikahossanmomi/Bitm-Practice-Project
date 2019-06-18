@@ -1,0 +1,136 @@
+/*homepage*/
+
+
+
+#navbar .nav-pills{
+    float: right;
+}
+#navbar ul li a:hover{
+    background-color: orange;
+    color: #ffffff;
+}
+#heroarea .logo{
+    height: 40px;
+    width: 80px;
+}
+
+#content h4{
+    padding: 30px 0;
+    text-align: center;
+    color: #0056b3;
+    font-size: 30px;
+}
+
+.section .card-body{
+    text-align: center;
+}
+.section .card-body h5{
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+}
+.section .card-body .btn{
+    background: orange;
+    color: white;
+}
+.section .sectiondiv{
+    margin: 10px;
+}
+.section .sectiondiv p{
+    font-size: 17px;
+    font-weight: lighter;
+}
+.footerline{
+    color: yellow;
+
+}
+footer{
+    background: #0056b3;
+    height: 60px;
+    margin-top: 70px;
+}
+footer p{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.card img{
+    height:250px;
+
+}
+/*end of homepage*/
+
+/*about*/
+#about h4{
+    padding: 30px 0;
+    text-align: center;
+    color: #0056b3;
+    font-size: 30px;
+}
+
+.pro{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: -15%;
+    border: 2px solid orange;
+}
+#trainer h4{
+    padding: 30px 0;
+    text-align: center;
+    color: #0056b3;
+    font-size: 30px;
+}
+.mentor {
+    padding: 100px 0 50px 0;
+}
+.mentor .card {
+    width: 260px;
+    height: 170px;
+}
+.card .name{
+    text-align: center;
+    line-height: 0px;
+}
+.card .profession{
+    line-height: 0px;
+    text-align: center;
+}
+
+/*end of about*/
+
+/*slider*/
+
+.slide-text h5{
+    padding: 30px 0;
+    text-align: center;
+    color: #0056b3;
+    font-size: 30px;
+}
+
+.slides-navigation a .prev {
+    left: 20px;
+}
+
+.slides-navigation a .next {
+    right: 20px;
+}
+/*end of slider*/
+
+/*contact form*/
+h5{
+    padding: 30px 0;
+    text-align: center;
+    color: #0056b3;
+    font-size: 30px;
+}
+#form {
+    box-shadow: -1px 2px 5px #888888;
+    padding: 30px;
+}
+#form .btn{
+    background: orange;
+    color: white;
+    padding: 15px;
+}
